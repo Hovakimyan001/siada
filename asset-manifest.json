@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/siada/static/css/main.e97865f0.css",
+    "main.js": "/siada/static/js/main.192b429a.js",
+    "static/media/back.jpg": "/siada/static/media/back.0c01196189777c6f86cc.jpg",
+    "static/media/login-fon.webp": "/siada/static/media/login-fon.20e2901589ac4d986ce2.webp",
+    "static/media/typewriter.webp": "/siada/static/media/typewriter.20e2901589ac4d986ce2.webp",
+    "index.html": "/siada/index.html",
+    "main.e97865f0.css.map": "/siada/static/css/main.e97865f0.css.map",
+    "main.192b429a.js.map": "/siada/static/js/main.192b429a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e97865f0.css",
+    "static/js/main.192b429a.js"
+  ]
+}
